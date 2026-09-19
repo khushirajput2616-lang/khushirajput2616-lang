@@ -17,8 +17,6 @@
 - Tools: GitHub, Jupyter Notebook
 - Interests: Game Development, Data Analytics
 
-### 📈 GitHub Stats
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushirajput2616-lang&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 
