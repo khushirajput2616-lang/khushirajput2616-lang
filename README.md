@@ -18,6 +18,7 @@
 - Interests: Game Development, Data Analytics
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khushirajput2616-lang&show_icons=true)
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushirajput2616-lang&show_icons=true&theme=radical)
+
 
 
